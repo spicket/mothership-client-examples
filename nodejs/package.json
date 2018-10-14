@@ -1,0 +1,28 @@
+{
+  "name": "mothership-client-example-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js example usage of a Mothership client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spicket/mothership-client-examples.git"
+  },
+  "keywords": [
+    "mothership",
+    "client",
+    "example"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spicket/mothership-client-examples/issues"
+  },
+  "homepage": "https://github.com/spicket/mothership-client-examples#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mothership-client": "^1.0.0"
+  }
+}
